@@ -1,0 +1,88 @@
+{
+  "hero": {
+    "title": "Keyingi sarguzashtingizni kashf eting",
+    "description": "Hasamati dam olishdan tortib, hayajonli tajribalarigacha – biz siz uchun unutilmas sayohatlarni tashkil qilamiz.",
+    "view_packages": "Paketlarni ko‘rish",
+    "contact_us": "Biz bilan bog‘laning"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "paragraph1": "Bizning kompaniyamiz – sayohat qilishni oson va qulay qilish maqsadida tashkil etilgan xalqaro turistik agentlik. Asosiy maqsadimiz mijozlarimizga eng yaxshi xizmatni taklif qilish, ular uchun xavfsiz va unutilmas sayohatlar tashkil qilishdir. Bizning jamoamiz yillar davomida sayohat industriyasida tajribaga ega bo‘lib, har bir mijoz uchun eng mos turistik paketlarni tanlashda professional xizmat ko‘rsatadi.",
+    "paragraph2": "Biz Dubay, Qatar, Misr, Turkiya va boshqa mashhur yo‘nalishlarga eksklyuziv turpaketlar taklif qilamiz. Har bir sayohat paketimiz ichida aviachipta, mehmonxona bron qilish, ekskursiyalar va mahalliy transport xizmatlari mavjud. Biz mijozlarimizning vaqtini qadrlaymiz va ularning shaxsiy talablariga mos ravishda sayohat dasturlarini yaratamiz.",
+    "paragraph3": "Biz nafaqat shaxsiy sayohatlar, balki oilaviy va guruhli turistik paketlarni ham taklif qilamiz. Korporativ safarlar, konferensiyalar va maxsus tadbirlar uchun ham maxsus xizmatlarimiz mavjud. Bizning tajribali gidlarimiz va hamkorlarimiz har bir sayohatni yanada qiziqarli va qulay o‘tishini ta’minlashadi.",
+    "paragraph4": "Biz uchun eng muhim narsa – mijozlarimizning qoniqishidir. Shuning uchun har bir xizmatimiz sifatli, ishonchli va qulay narxlarda taklif etiladi. Agar siz unutilmas sayohat tajribasiga ega bo‘lishni istasangiz, biz bilan bog‘laning va orzuingizdagi sayohatni rejalashtiring!"
+  },
+  "footer": {
+    "contact_us": "Biz bilan bog'laning",
+    "phone": "Telefon",
+    "email": "Elektron pochta",
+    "location": "Manzil",
+    "working_hours": "Ish kunlari va soatlari",
+    "payment_methods": "To'lov usullari"
+  },
+  "gallery": {
+    "title": "Bizning yo‘nalishlarni kashf eting",
+    "images": [
+      {
+        "title": "Dubay, BAA",
+        "image": "/images/dubai.jpg"
+      },
+      {
+        "title": "Sharm El-Sheykh, Misr",
+        "image": "/images/sharm.jpg"
+      },
+      {
+        "title": "Doha, Qatar",
+        "image": "/images/doha.jpg"
+      },
+      {
+        "title": "Maldiv orollari",
+        "image": "/images/maldives.jpg"
+      },
+      {
+        "title": "Bali, Indoneziya",
+        "image": "/images/bali.jpg"
+      },
+      {
+        "title": "Parij, Fransiya",
+        "image": "/images/paris.jpg"
+      },
+      {
+        "title": "London, Buyuk Britaniya",
+        "image": "/images/london.jpg"
+      },
+      {
+        "title": "Istanbul, Turkiya",
+        "image": "/images/istanbul.jpg"
+      },
+      {
+        "title": "Nyu-York, AQSh",
+        "image": "/images/newyork.jpg"
+      },
+      {
+        "title": "Santorini, Gretsiya",
+        "image": "/images/santorini.jpg"
+      },
+      {
+        "title": "Bangkok, Tailand",
+        "image": "/images/bangkok.jpg"
+      },
+      {
+        "title": "Moskva, Rossiya",
+        "image": "/images/moscow.jpg"
+      },
+      {
+        "title": "Barselona, Ispaniya",
+        "image": "/images/barcelona.jpg"
+      },
+      {
+        "title": "Rim, Italiya",
+        "image": "/images/rome.jpg"
+      },
+      {
+        "title": "Tokio, Yaponiya",
+        "image": "/images/tokyo.jpg"
+      }
+    ]
+  }
+}

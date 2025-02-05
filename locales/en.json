@@ -1,0 +1,88 @@
+{
+  "hero": {
+    "title": "Discover Your Next Adventure",
+    "description": "From luxury escapes to thrilling experiences, we craft unforgettable tours tailored just for you.",
+    "view_packages": "View Packages",
+    "contact_us": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "paragraph1": "Our company is an international travel agency established to make travel easy and comfortable. Our main goal is to offer the best service to our customers, ensuring safe and unforgettable trips. Our team has years of experience in the travel industry, providing professional services to find the most suitable travel packages for each customer.",
+    "paragraph2": "We offer exclusive tour packages to popular destinations such as Dubai, Qatar, Egypt, Turkey, and more. Each travel package includes airfare, hotel booking, excursions, and local transport services. We value our customers' time and create travel programs tailored to their personal needs.",
+    "paragraph3": "We offer not only personal trips but also family and group travel packages. We also have special services for corporate trips, conferences, and special events. Our experienced guides and partners ensure that every journey is even more exciting and comfortable.",
+    "paragraph4": "The most important thing for us is our customers' satisfaction. That’s why every service we offer is high-quality, reliable, and available at affordable prices. If you want to experience an unforgettable journey, contact us and plan the trip of your dreams!"
+  },
+  "footer": {
+    "contact_us": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "working_hours": "Working Days & Hours",
+    "payment_methods": "Payment Methods"
+  },
+  "gallery": {
+    "title": "Explore Our Destinations",
+    "images": [
+      {
+        "title": "Dubai, UAE",
+        "image": "/images/dubai.jpg"
+      },
+      {
+        "title": "Sharm El-Sheikh, Egypt",
+        "image": "/images/sharm.jpg"
+      },
+      {
+        "title": "Doha, Qatar",
+        "image": "/images/doha.jpg"
+      },
+      {
+        "title": "Maldives",
+        "image": "/images/maldives.jpg"
+      },
+      {
+        "title": "Bali, Indonesia",
+        "image": "/images/bali.jpg"
+      },
+      {
+        "title": "Paris, France",
+        "image": "/images/paris.jpg"
+      },
+      {
+        "title": "London, UK",
+        "image": "/images/london.jpg"
+      },
+      {
+        "title": "Istanbul, Turkey",
+        "image": "/images/istanbul.jpg"
+      },
+      {
+        "title": "New York, USA",
+        "image": "/images/newyork.jpg"
+      },
+      {
+        "title": "Santorini, Greece",
+        "image": "/images/santorini.jpg"
+      },
+      {
+        "title": "Bangkok, Thailand",
+        "image": "/images/bangkok.jpg"
+      },
+      {
+        "title": "Moscow, Russia",
+        "image": "/images/moscow.jpg"
+      },
+      {
+        "title": "Barcelona, Spain",
+        "image": "/images/barcelona.jpg"
+      },
+      {
+        "title": "Rome, Italy",
+        "image": "/images/rome.jpg"
+      },
+      {
+        "title": "Tokyo, Japan",
+        "image": "/images/tokyo.jpg"
+      }
+    ]
+  }
+}
