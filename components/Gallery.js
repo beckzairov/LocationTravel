@@ -19,7 +19,7 @@ export default function Gallery() {
   return (
     <section id="gallery" className="py-16 bg-gray-100">
       <div className="container mx-auto text-center px-6 md:px-12">
-        <h2 className="text-3xl font-bold mb-8">{t("gallery.title")}</h2>
+        <h2 className="text-3xl font-bold mb-8 text-black">{t("gallery.title")}</h2>
 
         {/* Pinterest Grid Layout */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 auto-rows-[200px] md:auto-rows-[250px] lg:auto-rows-[300px]">
