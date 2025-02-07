@@ -33,6 +33,7 @@ export default function Gallery() {
                 src={img.image}
                 alt={img.title}
                 className="w-full h-full object-cover"
+                loading="lazy"
               />
 
               {/* Dark Gradient Overlay */}
