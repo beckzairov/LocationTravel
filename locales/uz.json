@@ -13,12 +13,20 @@
     "paragraph4": "Biz uchun eng muhim narsa – mijozlarimizning qoniqishidir. Shuning uchun har bir xizmatimiz sifatli, ishonchli va qulay narxlarda taklif etiladi. Agar siz unutilmas sayohat tajribasiga ega bo‘lishni istasangiz, biz bilan bog‘laning va orzuingizdagi sayohatni rejalashtiring!"
   },
   "footer": {
-    "contact_us": "Biz bilan bog'laning",
-    "phone": "Telefon",
-    "email": "Elektron pochta",
-    "location": "Manzil",
-    "working_hours": "Ish kunlari va soatlari",
-    "payment_methods": "To'lov usullari"
+    "quick_links_title": "Tezkor havolalar",
+    "home": "Bosh sahifa",
+    "about_us": "Biz haqimizda",
+    "products": "Mahsulotlar",
+    "contact": "Bog‘lanish",
+    "follow_us": "Bizni kuzatib boring",
+    "back_to_top": "Yuqoriga qaytish",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "company_info": ""
+  },
+  "payment": {
+    "title": "To'lov usullari",
+    "prev": "Oldingi",
+    "next": "Keyingi"
   },
   "gallery": {
     "title": "Bizning yo‘nalishlarni kashf eting",

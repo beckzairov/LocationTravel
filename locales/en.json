@@ -13,13 +13,22 @@
     "paragraph4": "The most important thing for us is our customers' satisfaction. That’s why every service we offer is high-quality, reliable, and available at affordable prices. If you want to experience an unforgettable journey, contact us and plan the trip of your dreams!"
   },
   "footer": {
-    "contact_us": "Contact Us",
-    "phone": "Phone",
-    "email": "Email",
-    "location": "Location",
-    "working_hours": "Working Days & Hours",
-    "payment_methods": "Payment Methods"
+      "quick_links_title": "Quick Links",
+      "home": "Home",
+      "about_us": "About Us",
+      "products": "Products",
+      "contact": "Contact Us",
+      "follow_us": "Follow Us",
+      "back_to_top": "Back to Top",
+      "rights": "All rights reserved.",
+      "company_info": "ООО \"Nihol\" 2016, registered in 2016 in Dushanbe, Tajikistan at N. Sino, R. Nabieva 218."
   },
+  
+  "payment": {
+    "title": "Payment Methods",
+    "prev": "Previous",
+    "next": "Next"
+  },  
   "gallery": {
     "title": "Explore Our Destinations",
     "images": [
